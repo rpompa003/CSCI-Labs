@@ -5,6 +5,11 @@
 #include <cmath>
 using namespace std;
 
+int multiplication(int Amount_sold, int Tv_price){//function declaration with
+function name multiplication
+  int total_price = Amount_sold * Tv_price//times amount sold by the tv price to get total price
+return total_price
+  }
 
 int main(){
   //SEtting up the coding Process
